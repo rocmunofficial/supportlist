@@ -1,0 +1,14 @@
+6700 Series  
+PyTorch:Tested pass in Stable Diffusion WebUI(version 2.0) 
+  
+Speed:6.5 it/s  
+Notice Special:you shouldn't use the prebuilt packages in Ubuntu/RHEL,you should:https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Install-and-Run-on-AMD-GPUs#install-on-amd-and-arch-linux  
+  
+Tensorflow:untested  
+
+Test platform:  
+OS: Manjaro Linux x86_64
+Host: MS-7C82 1.0
+Kernel: 6.1.25-1-MANJARO
+CPU: Intel i5-10500 (12) @ 4.500GHz
+GPU: AMD Radeon RX 6750XT
